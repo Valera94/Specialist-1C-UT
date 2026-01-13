@@ -18,4 +18,4 @@
 <br/>
 
 ### Полезные авторы каналов : 
-- [Роман Любеньков]([https://youtube.com/channel/UCvtbWjVxUuDEGK_pUeGjnSw?feature=shared](https://www.youtube.com/@liubrom))
+- [Роман Любеньков](https://www.youtube.com/@liubrom)

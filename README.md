@@ -19,7 +19,8 @@
 
 ### Полезные авторы каналов : 
 - [Роман Любеньков](https://www.youtube.com/@liubrom)
-- [](https://rutube.ru/channel/16215941/videos/)
+- [Видео](https://rutube.ru/channel/16215941/videos/)
 
 ### Статьи :
 - [Как читать чужой код](https://www.1cget.ru/product/kak-chitat-chuzhoy-kod-chast-4-programmnyy-interfeys-ispravlenie-chuzhih-dorabotok/)
+- [Синтаксис-помощник](https://cors.su/eto-interesno/programmnye-moduli-v-1s/)

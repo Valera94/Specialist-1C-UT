@@ -24,3 +24,4 @@
 ### Статьи :
 - [Как читать чужой код](https://www.1cget.ru/product/kak-chitat-chuzhoy-kod-chast-4-programmnyy-interfeys-ispravlenie-chuzhih-dorabotok/)
 - [Синтаксис-помощник](https://cors.su/eto-interesno/programmnye-moduli-v-1s/)
+- [Модули](https://infostart.ru/1c/articles/83546/)
